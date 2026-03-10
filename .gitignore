@@ -1,6 +1,5 @@
 # Ignore data files
-data/raw/
-data/cleaned/
+
 
 # Ignore temporary folders
 temp_backup/
